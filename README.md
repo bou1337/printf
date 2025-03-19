@@ -17,7 +17,7 @@ ft_printf is a custom implementation of the standard C `printf` function, develo
 ## Installation
 ### Clone the repository
 ```sh
-git clone https://github.com/yourusername/ft_printf.git
+git clone https://github.com/bou133/ft_printf.git
 cd ft_printf
 ```
 
